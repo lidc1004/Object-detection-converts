@@ -4,7 +4,7 @@
 
 ##### 1. 数据准备
 
-Objects365`数据集共两个版本：2019 `Objects365`目标检测数据集，2020 `Objects365`物体检测数据集
+~Objects365`数据集共两个版本：2019 `Objects365`目标检测数据集，2020 `Objects365`物体检测数据集
 
 - 2019版本官方不在提供下载，这里提供百度云盘下载地址：链接: [https://pan.baidu.com/s/1q1kpu1TWSobRhoXr-TE9PA](https://pan.baidu.com/s/1q1kpu1TWSobRhoXr-TE9PA) 提取码: qiva 
 - 2020版本官方下载地址：[https://open.baai.ac.cn/data-set-enter-detail/12647](https://open.baai.ac.cn/data-set-enter-detail/12647)
