@@ -110,6 +110,10 @@ python coco_to_voc.py
 
 可自行划分训练集与验证集，也可使用官方划分方式，之后生成包含图片名称的train.txt,val.txt,test.txt,trainval.txt
 
+### xml数据筛选-xml_select.py
+
+将多余的标签删除，而不影响其它标签的使用
+
 ### xml数据统计与改变标签名-xml_counter_change.py
 
 可统计指定文件夹下所有xml数据，统计每个类别数量，也可改变一个或多个类别标签名，也可一次性全部更改
